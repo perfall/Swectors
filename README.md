@@ -1,6 +1,6 @@
 <body>
 	<h1>Swectors</h1>
-	<p>This is the code used for the paper "Towards a Standard Dataset of Swedish Word Vectors", pdf can be found <a href="https://link.to.article">here</a>.</p>
+	<p>This is the code used for the paper "Towards a Standard Dataset of Swedish Word Vectors", pdf can be found <a href="http://www8.cs.umu.se/~johanna/sltc2016/abstracts/SLTC_2016_paper_49.pdf">here</a>. Vectors can be downloaded <a href="http://www.ida.liu.se/divisions/hcs/nlplab/swectors/">here</a></p>
 	<h2>Creating Swedish word vectors</h2>
 	<p>The script takes four parameters, method (cbow or sgns), dimensionality, window size and iterations.</p>
 	<p>Such as:</p>
