@@ -1,24 +1,3 @@
-'''html
-<!doctype html>
-<html>
-	<head>
-	<title>Swectors</title>
-	<meta charset="utf-8">
-	<style>
-	@import "http://fonts.googleapis.com/css?family=Open Sans:regular,semibold,italic,italicsemibold|Inconsolata&amp;v2";
-	body {
-  		font-family: "Open Sans";
-  		margin: 2em 2em 2em 2em;
-	}
-	pre {
-  		background: #eee;
-  		margin-left: 2em;
-  		padding: 5px;
-  		border-left: 3px solid #ccc;
-	}
-</style>
-</head>
-
 <body>
 	<h1>Swectors</h1>
 	<p>This is the code used for the paper "Towards a Standard Dataset of Swedish Word Vectors", pdf can be found <a href="https://link.to.article">here</a>.</p>
@@ -44,5 +23,3 @@
 		<a href="mailto:marco.kuhlmann@liu.se?Subject=Swectors">Marco Kuhlmann</a>
 	</p>
 </body>
-</html>
-'''
